@@ -3,7 +3,7 @@ import math
 # Taking Inputs
 lower = int(input("Enter Lower bound:- "))
 
-# Taking Inputs
+
 upper = int(input("Enter Upper bound:- "))
 
 # generating random number between
